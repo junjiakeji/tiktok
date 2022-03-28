@@ -12,20 +12,12 @@
                         <key>url</key>
                         <string>http://jjkj5.com/wp-content/uploads/2022/03/TikTok-21.1.0.ipa</string>
                     </dict>
-                    <dict>
-	                    <key>kind</key>
-	                    <string>display-image</string>
-	                    <key>needs-shine</key>
-	                    <true/>
-	                    <key>url</key>
-	                    <string>http://jjkj5.com/wp-content/uploads/2022/03/tiktok.jpg</string>
-	                 </dict>
                 </array>
                 <key>metadata</key>
                 <dict> 
                     <key>bundle-identifier</key>
-                    <string>com.zhiliaoapp.musically</string>
-                    <key>bundle-version</key>
+                     <string>com.zhiliaoapp.musically</string>
+                     <key>bundle-version</key>
                     <string>21.1.0</string>
                     <key>kind</key>
                     <string>software</string>
